@@ -15,7 +15,7 @@ import io
 
 # Load environment variables
 load_dotenv()
-st.secrets["GROQ_API_KEY"]
+
 def extract_video_id(url):
     """Extract YouTube video ID from various URL formats"""
     patterns = [
@@ -762,3 +762,4 @@ st.markdown("""
 </div>
 
 """, unsafe_allow_html=True)
+
