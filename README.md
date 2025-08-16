@@ -2,6 +2,7 @@
 
 A simple **Streamlit-based web app** that summarizes text from **PDFs, YouTube videos, and websites** using **LangChain** and **Groq LLMs**.  
 
+👉 **Live Project**: [gistai.streamlit.io](https://gistai.streamlit.io)
 ---
 
 ## 🚀 Features
