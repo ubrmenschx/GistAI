@@ -24,5 +24,13 @@ A simple **Streamlit-based web app** that summarizes text from **PDFs, YouTube v
 - [UnstructuredURLLoader](https://python.langchain.com/docs/integrations/document_loaders/url) – Web content loading
 
 ---
+#### Developed By:
+[Tanmay Sachan](https://github.com/tanmayyysachan)
+
+## 📞 Support
+
+For support, email tanmaysachan0005@gmail.com :)
+
+
 
 
